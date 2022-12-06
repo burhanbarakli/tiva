@@ -1,4 +1,4 @@
-# Hafta 06
+# Hafta 09
 
  1. Dersteki ana kod!!
  ``` 
